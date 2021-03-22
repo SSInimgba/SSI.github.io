@@ -2,22 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Computer Vision
 
 [Rice or Not ](https://github.com/SSInimgba/Computer_Vision/blob/master/RiceorNotRice.ipynb)
 <img src="images/rice_or_not.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Natural Language Processing
+
+[Did Covid affect our New Year resolutions?](https://pure-fjord-39044.herokuapp.com/) 
+<img src="images/covid_and_resolutions.png?raw=true"/>
 
 ---
+
+### Natural Language Processing
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other ML Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,5 +37,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
