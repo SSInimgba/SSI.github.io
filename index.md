@@ -25,11 +25,11 @@
 
 ### Other ML Projects
 
-- [#SexForGrades](http://example.com/)
-- [Predicting Customer Average Monthly Spend](http://example.com/)
-- [Predicting Customer Purchase Behavior](http://example.com/)
-- [Using Text Mining on Wizkid's Lyrics](http://example.com/)
-- [Car Price Prediction Using Catboost](http://example.com/)
+- [#SexForGrades](https://github.com/SSInimgba/NLP/blob/master/_SexForGrades.ipynb)
+- [Predicting Customer Average Monthly Spend](https://github.com/SSInimgba/Notebooks/blob/master/Predicting%20Customer's%20Average%20Monthly%20Spend.ipynb)
+- [Predicting Customer Purchase Behavior](https://github.com/SSInimgba/Notebooks/blob/master/Predicting_Customers_Purchase_BehaviorFinal.ipynb)
+- [Using Text Mining on Wizkid's Lyrics](https://medium.com/@s.sinimgba/analysis-of-wizkids-lyrics-3703228f28fc)
+- [Car Price Prediction Using Catboost](https://github.com/SSInimgba/Notebooks/blob/master/Car%20Price%20Prediction%20Using%20Catboost.ipynb)
 
 ---
 
