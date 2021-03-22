@@ -25,11 +25,11 @@
 
 ### Other ML Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [#SexForGrades](http://example.com/)
+- [Predicting Customer Average Monthly Spend](http://example.com/)
+- [Predicting Customer Purchase Behavior](http://example.com/)
+- [Using Text Mining on Wizkid's Lyrics](http://example.com/)
+- [Car Price Prediction Using Catboost](http://example.com/)
 
 ---
 
