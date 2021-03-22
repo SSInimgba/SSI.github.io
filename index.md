@@ -18,8 +18,8 @@
 
 ### Natural Language Processing
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[EDA](https://github.com/SSInimgba/Data_Visualizations/blob/master/Lagos_Marathon_(EDA).ipynb)
+<img src="images/Lm_EDA.png?raw=true"/>
 
 ---
 
