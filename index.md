@@ -16,9 +16,9 @@
 
 ---
 
-### Natural Language Processing
+### EDA
 
-[EDA](https://github.com/SSInimgba/Data_Visualizations/blob/master/Lagos_Marathon_(EDA).ipynb)
+[Lagos Marathon](https://github.com/SSInimgba/Data_Visualizations/blob/master/Lagos_Marathon_(EDA).ipynb)
 <img src="images/Lm_EDA.png?raw=true"/>
 
 ---
